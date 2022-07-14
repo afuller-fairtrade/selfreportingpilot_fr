@@ -1,0 +1,597 @@
+﻿product_code,major category,minor category,production type,multiplication_factor
+pp002,Banane,Banane naine,Banane naine : côte (< 800 m au-dessus du niveau de la mer),1
+pp003,Banane,Banane naine,Banane naine : côte (? 800 m au-dessus du niveau de la mer),1
+pp001,Banane,Banane (fraîche),Banane (fraîche),1
+pp005,Banane,Banane (autre),Autre [préciser],1
+pp004,Banane,Plantain (fraîche),Plantain (fraîche),1
+pp007,Sucre de canne,Sucre de canne,Autre [préciser],1
+pp321,Sucre de canne,Sucre de canne,Sucre,1
+pp006,Sucre de canne,Sucre de canne,Canne à sucre,0.1
+pp311,Céréales,Millet,Millet,1
+pp243,Céréales,Céréales (autre),Autre [préciser],1
+pp329,Céréales,Qañiwa,Qañiwa,1
+pp242,Céréales,Quinoa,Quinoa,1
+pp636,Céréales,Sorgho,Sorgho,1
+pp008,Cacao,Cacao,Fèves de cacao (brutes),1
+pp009,Cacao,Cacao,Autre [préciser],1
+pp011,Café,Arabica,Arabica : cerise séchée,0.5
+pp010,Café,Arabica,Arabica : cerise non transformée,0.5
+pp012,Café,Arabica,Arabica : parchemin non lavé,0.8
+pp013,Café,Arabica,Arabica : parchemin lavé,0.8
+pp018,Café,Café (autre),Autre [préciser],1
+pp015,Café,Robusta,Robusta : cerise séchée,0.5
+pp014,Café,Robusta,Robusta : cerise non transformée,0.5
+pp016,Café,Robusta,Robusta : parchemin non lavé,0.8
+pp017,Café,Robusta,Robusta : parchemin lavé,0.8
+pp019,"Fruits transformés (jus, séchés et pulpe)",Açaï,Açaï (séché),1
+pp020,"Fruits transformés (jus, séchés et pulpe)",Pommes,Pommes (séchées),1
+pp021,"Fruits transformés (jus, séchés et pulpe)",Abricot,Abricot (séché),1
+pp022,"Fruits transformés (jus, séchés et pulpe)",Banane,Banane (séchée),1
+pp023,"Fruits transformés (jus, séchés et pulpe)",Myrtille,Myrtille (séchée),1
+pp024,"Fruits transformés (jus, séchés et pulpe)",Cerise,Cerise (séchée),1
+pp025,"Fruits transformés (jus, séchés et pulpe)",Noix de coco,Noix de coco (séchée),1
+pp026,"Fruits transformés (jus, séchés et pulpe)",Datte,Datte (séchée),1
+pp027,"Fruits transformés (jus, séchés et pulpe)",Citrons verts,Citrons verts (séchés),1
+pp028,"Fruits transformés (jus, séchés et pulpe)",Mangue,Mangue (séchée),1
+pp029,"Fruits transformés (jus, séchés et pulpe)",Melons (Cumumis melo),Melons (Cumumis melo) (séchés),1
+pp041,"Fruits transformés (jus, séchés et pulpe)",Fruits transformés (autre),Autres fruits secs [préciser],1
+pp030,"Fruits transformés (jus, séchés et pulpe)",Papaye,Papaye (séchée),1
+pp031,"Fruits transformés (jus, séchés et pulpe)",Poires,Poires (séchées),1
+pp327,"Fruits transformés (jus, séchés et pulpe)",Kaki,Kaki (séché),1
+pp032,"Fruits transformés (jus, séchés et pulpe)",Physalis,Physalis (séché),1
+pp033,"Fruits transformés (jus, séchés et pulpe)",Ananas,Ananas (séché),1
+pp034,"Fruits transformés (jus, séchés et pulpe)",Prunes,Prunes (séchées),1
+pp035,"Fruits transformés (jus, séchés et pulpe)",Grenade,Grenade (séché),1
+pp036,"Fruits transformés (jus, séchés et pulpe)",Raisin,Raisin (séché),1
+pp037,"Fruits transformés (jus, séchés et pulpe)",Framboises,Framboises (séchées),1
+pp038,"Fruits transformés (jus, séchés et pulpe)",Sultana,Sultana (séchée),1
+pp039,"Fruits transformés (jus, séchés et pulpe)",Pastèque,Pastèque (séchée),1
+pp040,"Fruits transformés (jus, séchés et pulpe)",Abricot sauvage,Abricot sauvage (séché),1
+pp043,Les légumes,Les légumes (autre),Autres légumes séchés [préciser],1
+pp042,Les légumes,Tomates (séchés),Tomates (séchés),1
+pp348,Fleurs et plantes,Plantes,Bulbes,1
+pp044,Fleurs et plantes,Fleurs coupées et feuillages coupés,Fleurs coupées,1
+pp046,Fleurs et plantes,Fleurs coupées et feuillages coupés,Fleurs coupées et feuillages coupés,1
+pp045,Fleurs et plantes,Fleurs coupées et feuillages coupés,Feuillage coupé,1
+pp047,Fleurs et plantes,Plantes,Plantes ornementales,1
+pp350,Fleurs et plantes,Plantes,Jeunes plants,1
+pp048,Fleurs et plantes,Fleurs et plantes (autre),Autre [préciser],1
+pp049,Fonio,Fonio,Fonio,1
+pp050,Fonio,Fonio,Autre [préciser],1
+pp051,Fruits frais,Açaï,Açaï (frais),1
+pp052,Fruits frais,Pommes,Pommes (fraîches),1
+pp053,Fruits frais,Abricot,Abricot (frais),1
+pp054,Fruits frais,Avocats,Avocats (frais),1
+pp055,Fruits frais,Baobab,Baobab (frais),1
+pp056,Fruits frais,Cassis,Cassis (frais),1
+pp057,Fruits frais,Myrtille,Myrtille (fraîche),1
+pp058,Fruits frais,Cerise,Cerise (fraîche),1
+pp059,Fruits frais,Dattes,Dattes (fraichhes),1
+pp060,Fruits frais,Fruit du dragon,Fruit du dragon (fraiche),1
+pp061,Fruits frais,Pamplemousse,Pamplemousse (fraiche),1
+pp634,Fruits frais,Jaquier,Jaquier (frais),1
+pp631,Fruits frais,Langsat,Langsat (frais),1
+pp062,Fruits frais,Citrons,Citrons (frais),1
+pp063,Fruits frais,Citrons verts,Citrons verts (frais),1
+pp064,Fruits frais,Litchis,Litchis (frais),1
+pp065,Fruits frais,Mangues,Mangues (fraîches),1
+pp632,Fruits frais,Mangoustan,Mangoustan (frais),1
+pp066,Fruits frais,Marula,Marula (frais),1
+pp067,Fruits frais,Melon (Cumumis melo),Melon (Cumumis melo) (frais),1
+pp068,Fruits frais,Mini Pastèque,Mini Pastèque (fraîche),1
+pp069,Fruits frais,Nectarines,Nectarines (fraîches),1
+pp070,Fruits frais,Oranges,Oranges (fraîches),1
+pp071,Fruits frais,Oranges : Navel,Oranges : Navel (fraîches),1
+pp072,Fruits frais,Oranges : Valencia,Oranges : Valencia (fraîches),1
+pp092,Fruits frais,Fruits frais (autre),Fruits frais (autres),1
+pp073,Fruits frais,Papaye,Papaye (fraîche),1
+pp074,Fruits frais,Fruit de la passion,Fruit de la passion (fraîche),1
+pp075,Fruits frais,Pêches et nectarines,Pêches et nectarines (fraîches),1
+pp076,Fruits frais,Poires,Poires (fraîches),1
+pp312,Fruits frais,Kaki,Kaki (frais),1
+pp077,Fruits frais,Physalis,Physalis (frais),1
+pp078,Fruits frais,Ananas,Ananas (frais),1
+pp079,Fruits frais,Prunes,Prunes (fraîches),1
+pp080,Fruits frais,Grenade,Grenade (fraîche),1
+pp639,Fruits frais,Pampelmuse,Pampelmusse (fraîche),1
+pp081,Fruits frais,figue de barbarie,figue de barbarie (fraîche),1
+pp630,Fruits frais,Ramboutan,Ramboutan (frais),1
+pp082,Fruits frais,Framboises,Framboises (fraîches),1
+pp083,Fruits frais,Groseilles,Groseilles (fraîches),1
+pp629,Fruits frais,Fruit serpent,Fruit serpent (frais),1
+pp084,Fruits frais,Agrumes : clémentines,Agrumes : clémentines (fraîches),1
+pp085,Fruits frais,Agrumes : mandarines,Agrumes : mandarines (fraîches),1
+pp086,Fruits frais,Agrumes : satsumas,Agrumes : satsumas (fraîches),1
+pp087,Fruits frais,Agrumes : tangerines,Agrumes : tangerines (fraîches),1
+pp314,Fruits frais,Corossol,Corossol (frais),1
+pp088,Fruits frais,Fraises,Fraises (fraîches),1
+pp089,Fruits frais,Raisins de table : épépinés,Raisins de table : épépinés (frais),1
+pp090,Fruits frais,Raisins de table : sans pépin,Raisins de table : sans pépin (frais),1
+pp091,Fruits frais,Pastèque,Pastèque (fraîche),1
+pp357,"Fruits transformés (jus, séchés et pulpe)",Açaï,Açaï (jus),1
+pp358,"Fruits transformés (jus, séchés et pulpe)",Myrtille,Myrtille (jus),1
+pp102,"Fruits transformés (jus, séchés et pulpe)",Fruits transformés (autre),Autre jus de fruits [préciser],1
+pp359,"Fruits transformés (jus, séchés et pulpe)",Cerise,Cerise (jus),1
+pp371,"Fruits transformés (jus, séchés et pulpe)",Framboises,Framboises (jus),1
+pp100,"Fruits transformés (jus, séchés et pulpe)",Fruit de la passion,Fruit de la passion (jus),1
+pp095,"Fruits transformés (jus, séchés et pulpe)",Goyave,Goyave (jus),1
+pp097,"Fruits transformés (jus, séchés et pulpe)",Citron vert,Citron vert (jus),1
+pp096,"Fruits transformés (jus, séchés et pulpe)",Citron,Citron (jus),1
+pp098,"Fruits transformés (jus, séchés et pulpe)",Mandarine,Mandarine (jus),1
+pp368,"Fruits transformés (jus, séchés et pulpe)",Mangue,Mangue (jus),1
+pp093,"Fruits transformés (jus, séchés et pulpe)",Pomme,Pomme (jus),1
+pp099,"Fruits transformés (jus, séchés et pulpe)",Orange,Orange (jus),1
+pp369,"Fruits transformés (jus, séchés et pulpe)",Papaye,Papaye (jus),1
+pp370,"Fruits transformés (jus, séchés et pulpe)",Poires,Poires (jus),1
+pp101,"Fruits transformés (jus, séchés et pulpe)",Ananas,Ananas (jus),1
+pp094,"Fruits transformés (jus, séchés et pulpe)",Pamplemousse,Pamplemousse (jus),1
+pp103,Or et des métaux nobles associés,Or,Or : conventionnel,1
+pp104,Or et des métaux nobles associés,Or,Or : écologique,1
+pp109,Or et des métaux nobles associés,Or et des métaux nobles associés (autre),Autre [préciser],1
+pp107,Or et des métaux nobles associés,Platine,Platine : conventionnel,1
+pp108,Or et des métaux nobles associés,Platine,Platine : écologique,1
+pp105,Or et des métaux nobles associés,Argent,Argent : conventionnel,1
+pp106,Or et des métaux nobles associés,Argent,Argent : écologique,1
+pp110,"Les herbes, les tisanes & les épices",Achochilla,Achochilla (Cyclanthera tenuisepala),1
+pp111,"Les herbes, les tisanes & les épices",Agave,"Agave (Agave tequilana, A. salmiana)",1
+pp112,"Les herbes, les tisanes & les épices",Ajowan,Ajowan (Trachyspermum ammi),1
+pp372,"Les herbes, les tisanes & les épices",Luzerne,Luzerne( Medicago sativa),1
+pp113,"Les herbes, les tisanes & les épices",Poivre de la Jamaïque,Poivre de la Jamaïque (Pimenta dioica),1
+pp114,"Les herbes, les tisanes & les épices",Fleur d'amandier,Fleur d'amandier (Prunus dulcis var. dulcis),1
+pp115,"Les herbes, les tisanes & les épices",Aloe,Aloe (Aloe vera),1
+pp373,"Les herbes, les tisanes & les épices",Altimisa,Altimisa (Ambrosia arborescens),1
+pp374,"Les herbes, les tisanes & les épices",Amarante graine,Amarante graine,1
+pp375,"Les herbes, les tisanes & les épices",Angélique,"Angélique (Angelica sylvestris, A. archangelica)",1
+pp376,"Les herbes, les tisanes & les épices",Angélique,"Racine d'angélique (Angelica sylvestris, A. archangelica)",1
+pp377,"Les herbes, les tisanes & les épices",Angélique,"Tige d'angélique (Angelica sylvestris, A. archangelica)",1
+pp116,"Les herbes, les tisanes & les épices",Anis de syzygium,Anis de syzygium (Syzygium anisatum),1
+pp117,"Les herbes, les tisanes & les épices",Anis vert,Anis vert (Pimpinella anisum),1
+pp378,"Les herbes, les tisanes & les épices",Graine d'annato ,Graine d'annato  (Bixa orellana),1
+pp118,"Les herbes, les tisanes & les épices",Noyau d'abricot ,Noyau d'abricot  (Prunus armeniaca L.),1
+pp627,"Les herbes, les tisanes & les épices",Sucre/nectar de Arenga,Sucre/nectar de Arenga,1
+pp119,"Les herbes, les tisanes & les épices",Ase fétide,Ase fétide (Ferula assa-foetida),1
+pp315,"Les herbes, les tisanes & les épices",Sucre de palmier de Palmyre,Sucre de palmier de Palmyre,1
+pp379,"Les herbes, les tisanes & les épices",Sucre de palmier de Palmyre,Sucre de palmier de Palmyre (Borassus flabellifer): bourgeons,1
+pp380,"Les herbes, les tisanes & les épices",Sucre de palmier de Palmyre,Sucre de palmier de Palmyre (Borassus flabellifer): sève des spadices,1
+pp381,"Les herbes, les tisanes & les épices",La racine d'astragale,La racine d'astragale (Astragalus spec.),1
+pp382,"Les herbes, les tisanes & les épices",Épine-vinette ,Épine-vinette  (Berberis vulgaris),1
+pp120,"Les herbes, les tisanes & les épices",Basilic,"Basilic (Ocimum basilicum, O. gratissimum)",1
+pp383,"Les herbes, les tisanes & les épices",Feuille de laurier,Feuille de laurier (Laurus nobilis),1
+pp384,"Les herbes, les tisanes & les épices",Baume à base de fleur de monarde,Baume à base de fleur de monarde (Monarda didyma),1
+pp385,"Les herbes, les tisanes & les épices",Bael,Fruit de bael (Aegle marmelos),1
+pp386,"Les herbes, les tisanes & les épices",Bael,Feuille de bael (Aegle marmelos),1
+pp387,"Les herbes, les tisanes & les épices",Bael,Racine de bael (Aegle marmelos),1
+pp388,"Les herbes, les tisanes & les épices",Feuille de myrtille,Feuille de myrtille (Vaccinium myrtillus),1
+pp389,"Les herbes, les tisanes & les épices",Feuille de bouleau,"Feuille de bouleau (Betula pendula, B. pubescens)",1
+pp390,"Les herbes, les tisanes & les épices",La mauvaise herbe de l'évêque,La mauvaise herbe de l'évêque (Aegopodium podagraria,1
+pp121,"Les herbes, les tisanes & les épices",Cumin noir,Cumin noir (Nigella sativa),1
+pp122,"Les herbes, les tisanes & les épices",Feuille de mûrier,Feuille de mûrier (Morus nigra),1
+pp123,"Les herbes, les tisanes & les épices",Poivre noir,Poivre noir (Piper nigrum),1
+pp124,"Les herbes, les tisanes & les épices",Feuille de mûre ,Feuille de mûre  (Rubus fruticosus),1
+pp125,"Les herbes, les tisanes & les épices",Feuille de cassis ,Feuille de cassis  (Ribes nigrum),1
+pp391,"Les herbes, les tisanes & les épices",Racine d'iris versicolor,Racine d'iris versicolor (Iris versicolor),1
+pp392,"Les herbes, les tisanes & les épices",Arbre du Chili ,Arbre du Chili  (Peumus boldus),1
+pp393,"Les herbes, les tisanes & les épices",Bourrache,"Bourrache (Borago officinalis, B. pygmaea)",1
+pp394,"Les herbes, les tisanes & les épices",Bourrache,"Bourrache (Borago officinalis, B. pygmaea)",1
+pp395,"Les herbes, les tisanes & les épices",Bourrache,"Bourrache (Borago officinalis, B. pygmaea): Séchée",1
+pp126,"Les herbes, les tisanes & les épices",Poivre rose,Poivre rose (Schinus terebinthifolius),1
+pp396,"Les herbes, les tisanes & les épices",Macumba du désert,Macumba du désert (Agathosma betulina),1
+pp397,"Les herbes, les tisanes & les épices",Macumba du désert,Macumba du désert (Agathosma betulina),1
+pp398,"Les herbes, les tisanes & les épices",Sarrasin ,Sarrasin  (Fagopyrum esculentum),1
+pp399,"Les herbes, les tisanes & les épices",Racine de bardane ,Racine de bardane  (Arctium majus),1
+pp400,"Les herbes, les tisanes & les épices",Pimprenelle,Pimprenelle (Sanguisorba species),1
+pp401,"Les herbes, les tisanes & les épices",Fraxinelle / buisson ardent,Fraxinelle / buisson ardent (Dictamnus albus),1
+pp127,"Les herbes, les tisanes & les épices",Camomille,"Camomille (Matricaria recutita, Anthemis nobilis)",1
+pp128,"Les herbes, les tisanes & les épices",Câpre,Câpre (Capparis spinosa),1
+pp129,"Les herbes, les tisanes & les épices",Carvi,Carvi (Carum carvi),1
+pp130,"Les herbes, les tisanes & les épices",Cardamome,Cardamome (Elettaria & Amonum species),1
+pp131,"Les herbes, les tisanes & les épices",Fruit de la cardamone ,Fruit de la cardamone  (espèces Elettaria et Amonum),1
+pp641,"Les herbes, les tisanes & les épices",Caroubier,Caroubier,1
+pp402,"Les herbes, les tisanes & les épices",Carragénine,Carragénine (Chondrus crispus),1
+pp403,"Les herbes, les tisanes & les épices",Cassia,Cassia,1
+pp404,"Les herbes, les tisanes & les épices",Huile de ricin,Huile de ricin (Ricinus communis),1
+pp405,"Les herbes, les tisanes & les épices",Népéte/ herbe aux chats,Népéte/ herbe aux chats (Nepeta species),1
+pp406,"Les herbes, les tisanes & les épices",Fleur de pied de chat dioïque,Fleur de pied de chat dioïque (Antennaria dioïque),1
+pp407,"Les herbes, les tisanes & les épices",Écorce de baluba ,Écorce de baluba  (Erythroxylon catalan martius),1
+pp132,"Les herbes, les tisanes & les épices",Céléri,Céléri (Apium graveolens),1
+pp133,"Les herbes, les tisanes & les épices",Centalla,Centalla (Centella asiatica),1
+pp408,"Les herbes, les tisanes & les épices",Petite centaurée,Petite centaurée (Erythraea centaurium),1
+pp134,"Les herbes, les tisanes & les épices",Cerfeuil commun,Cerfeuil commun (Anthriscus cerefolium),1
+pp135,"Les herbes, les tisanes & les épices",Graine de Chia,Graine de Chia (Salvia hispanica),1
+pp136,"Les herbes, les tisanes & les épices",Chicorée,Chicorée (Cichorium intybus),1
+pp137,"Les herbes, les tisanes & les épices",Piment,Piment (Capsicum species),1
+pp409,"Les herbes, les tisanes & les épices",Chirette ,Chirette  (Swertia chirata),1
+pp138,"Les herbes, les tisanes & les épices",Ciboulette,"Ciboulette (Allium schoenoprasum, A. odoratum)",1
+pp410,"Les herbes, les tisanes & les épices",Chrysanthèmes,Chrysanthèmes (Chrysanthemum species),1
+pp411,"Les herbes, les tisanes & les épices",Cerfeuil musqué,Cerfeuil musqué (Myrrhis odorata),1
+pp412,"Les herbes, les tisanes & les épices",Écorce de quinquina,Écorce de quinquina (Cinchona succirubra),1
+pp139,"Les herbes, les tisanes & les épices",Cannelle,"Cannelle (Cinnamomum zeylanicum, C. cassia)",1
+pp140,"Les herbes, les tisanes & les épices",Citronnelle,"Citronnelle (Cymbopogon winterianus, C. nardus)",1
+pp141,"Les herbes, les tisanes & les épices",Clous de girofle,Clous de girofle (Syzygium aromaticum),1
+pp413,"Les herbes, les tisanes & les épices",Lycopode en massure ,Lycopode en massure  (Lycopodium clavatum),1
+pp414,"Les herbes, les tisanes & les épices",Souchet rond,Souchet rond (Cyperus rotundus),1
+pp415,"Les herbes, les tisanes & les épices",Sucre/nectar de cocotier,Sucre/nectar de cocotier (Cocos nucifera),1
+pp416,"Les herbes, les tisanes & les épices",Codonopsis racine,Codonopsis racine (Codonopsis pilosulae),1
+pp417,"Les herbes, les tisanes & les épices",Feuille de café,"Feuille de café (Coffea arabica, C. canephora)",1
+pp316,"Les herbes, les tisanes & les épices",Feuille de café,Feuilles de café,1
+pp418,"Les herbes, les tisanes & les épices",Noix de kola ,Noix de kola  (Cola acuminata),1
+pp419,"Les herbes, les tisanes & les épices",Oseille,Oseille (Rumex species),1
+pp420,"Les herbes, les tisanes & les épices",Véronique commune ,Véronique commune  (Veronica officinalis),1
+pp421,"Les herbes, les tisanes & les épices",Écorce de condurango,Écorce de condurango (Marsdenia cundurango),1
+pp142,"Les herbes, les tisanes & les épices",Coriandre,Coriandre (Coriandrum sativum),1
+pp143,"Les herbes, les tisanes & les épices",Bleuet ,Bleuet  (Centaurea cyanus),1
+pp422,"Les herbes, les tisanes & les épices",Tanaisie,"Tanaisie (Tanacetum vulgare, T. balsamita)",1
+pp423,"Les herbes, les tisanes & les épices",Chiendent,Chiendent (Agropyron repens),1
+pp424,"Les herbes, les tisanes & les épices",Feuille d'airelle ,Feuille d'airelle  (Vaccinium vitis-idaea),1
+pp144,"Les herbes, les tisanes & les épices",Cumin,Cumin (Cuminum cyminum),1
+pp145,"Les herbes, les tisanes & les épices",Feuilles de curry/ Feuilles de kaloupilé,Feuilles de curry/ Feuilles de kaloupilé (Murraya koenigii),1
+pp425,"Les herbes, les tisanes & les épices",Graines de cuscute,Graines de cuscute (Cuscuta epithymum),1
+pp426,"Les herbes, les tisanes & les épices",Marguerite ,Marguerite  (Bellis perennis),1
+pp427,"Les herbes, les tisanes & les épices",Rosier de Damas,Rosier de Damas (Rosa damascena),1
+pp428,"Les herbes, les tisanes & les épices",Damiana,Damiana (Turnera diffusa var. aphrodisiaca),1
+pp146,"Les herbes, les tisanes & les épices",Pissenlit,Pissenlit (Taraxatum species),1
+pp147,"Les herbes, les tisanes & les épices",Aneth,Aneth (Anethum graveolens),1
+pp429,"Les herbes, les tisanes & les épices",Galéopsis des moissons,Galéopsis des moissons (Galeopsis segetum),1
+pp430,"Les herbes, les tisanes & les épices",Fruit du sureau hièble ,Fruit du sureau hièble  (Sambucus ebulus),1
+pp431,"Les herbes, les tisanes & les épices",Pousse de pin des montagne nain  ,Pousse de pin des montagne nain   ( Pinus mugo),1
+pp432,"Les herbes, les tisanes & les épices",Fleur du genêt des teinturiers,Fleur du genêt des teinturiers (Genista tinctoria),1
+pp433,"Les herbes, les tisanes & les épices",Échinacée,Échinacée (Ésp. Echinacea ),1
+pp434,"Les herbes, les tisanes & les épices",Racine d'échinacée,Racine d'échinacée( Ésp. Echinacea),1
+pp435,"Les herbes, les tisanes & les épices",Grande aunée,Grande aunée (Inula helenium),1
+pp506,"Les herbes, les tisanes & les épices",Épazote,Épazote (Chenopodium ambrosioides),1
+pp436,"Les herbes, les tisanes & les épices",Épazote,Épazote (Chenopodium ambrosioides),1
+pp437,"Les herbes, les tisanes & les épices",Eucalyptus,Eucalyptus (Eucalyptus species),1
+pp438,"Les herbes, les tisanes & les épices",Oenothère,Oenothère (Oenothera biennis),1
+pp439,"Les herbes, les tisanes & les épices",Euphorbe,Euphorbe (Euphrasia officinalis,1
+pp148,"Les herbes, les tisanes & les épices",Fenouil,Fenouil (Foeniculum vulgare),1
+pp149,"Les herbes, les tisanes & les épices",Fenugrec,Fenugrec (Trigonella foenum-graecum),1
+pp440,"Les herbes, les tisanes & les épices",Grande camomille,Grande camomille (Tanacetum parthenium),1
+pp441,"Les herbes, les tisanes & les épices",Prêle des champs ,Prêle des champs  (Equisetum arvense),1
+pp442,"Les herbes, les tisanes & les épices",Coquelicot,Coquelicot (Papaver rhoeas),1
+pp443,"Les herbes, les tisanes & les épices",Tir du sapin,Tir du sapin (Abies spec.),1
+pp444,"Les herbes, les tisanes & les épices",Sumac aromatique,Sumac aromatique (Rhus aromatica),1
+pp445,"Les herbes, les tisanes & les épices",Fumeterre ,Fumeterre  (Fumaria officinalis),1
+pp150,"Les herbes, les tisanes & les épices",Galanga,"Galanga (Kaempferia galanga, Languas galanga, L. officinarum, Alpinia galanga, A.officinarum)",1
+pp151,"Les herbes, les tisanes & les épices",Ciboule chinoise,"Ciboule chinoise (Allium tuberosum, A. ramosum)",1
+pp152,"Les herbes, les tisanes & les épices","Pélargoniums, Geranium","Pélargoniums, Geranium (Pelargonium odoratissimum, P. graveolens)",1
+pp446,"Les herbes, les tisanes & les épices",Racine de Giloy,Racine de Giloy (Tinospora cordifolia),1
+pp447,"Les herbes, les tisanes & les épices",Tige de Giloy,Tige de Giloy (Tinospora cordifolia),1
+pp153,"Les herbes, les tisanes & les épices",Gingembre,Gingembre (Zingiber officicinale),1
+pp448,"Les herbes, les tisanes & les épices",Ginkgo biloba,Ginkgo biloba (Ginkgo biloba),1
+pp449,"Les herbes, les tisanes & les épices",Racine de ginseng ,Racine de ginseng  (Panax ginseng),1
+pp450,"Les herbes, les tisanes & les épices",Galéga officinal,Galéga officinal (Galega officinalis),1
+pp451,"Les herbes, les tisanes & les épices",Le goji fruit,Le goji fruit (Lycium barbarum),1
+pp452,"Les herbes, les tisanes & les épices",L'orpin rose ,L'orpin rose  (Rhodiola rosea),1
+pp453,"Les herbes, les tisanes & les épices",Solidage verte,Solidage verte (Solidago virgaurea),1
+pp454,"Les herbes, les tisanes & les épices",Poivre du paradis / Poivre de Guinée,Poivre du paradis / Poivre de Guinée (Aframomum melegueta),1
+pp154,"Les herbes, les tisanes & les épices",Feuille de vigne ,Feuille de vigne  (Vitis vinifera),1
+pp455,"Les herbes, les tisanes & les épices",Feuille de bougainvillier,Feuille de bougainvillier (Bougainvillea spectabilis),1
+pp456,"Les herbes, les tisanes & les épices",Thé de montagne grec ,Thé de montagne grec  (Ésp. Sideritis),1
+pp457,"Les herbes, les tisanes & les épices",Lierre terrestre ,Lierre terrestre  (Glechoma hederacea),1
+pp458,"Les herbes, les tisanes & les épices",Graine de guarana ,Graine de guarana  (Paullinia cupana),1
+pp155,"Les herbes, les tisanes & les épices",Guayusa,Guayusa (Ilex guayusa),1
+pp319,"Les herbes, les tisanes & les épices",Gomme arabique,Gomme arabique,1
+pp459,"Les herbes, les tisanes & les épices",Gomme arabique,"Gomme arabique Sève du tronc (Acacia senegal, A. seyal)",1
+pp460,"Les herbes, les tisanes & les épices",Feuille de gymnéma sylvestre,Feuille de gymnéma sylvestre (Gymnema silvestre),1
+pp461,"Les herbes, les tisanes & les épices",Herniaire hirsute ,Herniaire hirsute  (Herniaria hirsuta),1
+pp462,"Les herbes, les tisanes & les épices",Aubépine,Aubépine (Crataegus species),1
+pp463,"Les herbes, les tisanes & les épices",Feuille de noisetier ,Feuille de noisetier  (Corylus avellana),1
+pp464,"Les herbes, les tisanes & les épices",Pensée sauvage ,Pensée sauvage  (Viola tricolor),1
+pp465,"Les herbes, les tisanes & les épices",Callune ,Callune  (Calluna vulgaris),1
+pp466,"Les herbes, les tisanes & les épices",Fleur de callune ,Fleur de callune  (Calluna vulgaris),1
+pp467,"Les herbes, les tisanes & les épices",Chanvre cultivé ,Chanvre cultivé  (Cannabis sativa),1
+pp468,"Les herbes, les tisanes & les épices",Benoîte commune,Benoîte commune (Geum urbanum),1
+pp469,"Les herbes, les tisanes & les épices",Racine de benoîte commune,Racine de benoîte commune (Geum urbanum),1
+pp470,"Les herbes, les tisanes & les épices",Tisane  non spécifié,Tisane  non spécifié,1
+pp156,"Les herbes, les tisanes & les épices",Hibiscus,Hibiscus (Hibiscus sabdariffa),1
+pp471,"Les herbes, les tisanes & les épices",Fleur de rose trémière ,Fleur de rose trémière  (Althaea rosea),1
+pp472,"Les herbes, les tisanes & les épices",Chardon béni,Chardon béni (Cnicus benedictus),1
+pp157,"Les herbes, les tisanes & les épices",Honeybush,Honeybush (Cyclopia species),1
+pp473,"Les herbes, les tisanes & les épices",Marrubium,Marrubium (Marrubium vulgare),1
+pp474,"Les herbes, les tisanes & les épices",Écorce de maronnier d'Inde,Écorce de maronnier d'Inde (Aesculus hippocastanum),1
+pp475,"Les herbes, les tisanes & les épices",Fleur  de maronnier d'Inde,Fleur  de maronnier d'Inde (Aesculus hippocastanum),1
+pp476,"Les herbes, les tisanes & les épices",Feuille  de maronnier d'Inde,Feuille  de maronnier d'Inde (Aesculus hippocastanum),1
+pp477,"Les herbes, les tisanes & les épices",Raifort,Raifort (Armoracia rusticana),1
+pp478,"Les herbes, les tisanes & les épices",Hysope,Hysope (Hyssopus officinalis),1
+pp479,"Les herbes, les tisanes & les épices",Lichen d'Islande,Lichen d'Islande (Cetraria islandica),1
+pp480,"Les herbes, les tisanes & les épices",Feuille de chirette verte,Feuille de chirette verte (Andrographis paniculata),1
+pp481,"Les herbes, les tisanes & les épices",Racine de chirette verte,Racine de chirette verte (Andrographis paniculata),1
+pp640,"Les herbes, les tisanes & les épices",Gomme-oléorésine,Gomme-oléorésine,1
+pp482,"Les herbes, les tisanes & les épices",Ashwagandha,Ashwagandha (Withania somnifera),1
+pp483,"Les herbes, les tisanes & les épices",Indigotier,Indigotier (Indigofera tinctoria),1
+pp484,"Les herbes, les tisanes & les épices",Salsepareille,Salsepareille (Hemidesmus indicus),1
+pp485,"Les herbes, les tisanes & les épices",Coccinia,Coccinia (Coccinia indica),1
+pp486,"Les herbes, les tisanes & les épices",Zingiber mioga,Zingiber mioga (Zingiber mioga),1
+pp158,"Les herbes, les tisanes & les épices",Jasmin,Jasmin (Jasminum species),1
+pp159,"Les herbes, les tisanes & les épices",Genévrier commun ,Genévrier commun  (Juniperus communis),1
+pp487,"Les herbes, les tisanes & les épices",Renouée des oiseaux,Renouée des oiseaux (Polygonum aviculare),1
+pp160,"Les herbes, les tisanes & les épices",Noix de gurgi,Noix de gurgi (Garcinia indica),1
+pp488,"Les herbes, les tisanes & les épices",Écorce de lapacho,Écorce de lapacho (Tebebuia impetiginosa),1
+pp489,"Les herbes, les tisanes & les épices",Fleur de delphinium ,Fleur de delphinium  (Delphinium consolida),1
+pp161,"Les herbes, les tisanes & les épices",Lavande,Lavande (Lavendula species),1
+pp320,"Les herbes, les tisanes & les épices",Poireau d'été,Poireau d'été,1
+pp490,"Les herbes, les tisanes & les épices",Mélisse,Mélisse (Mellisa officinalis),1
+pp162,"Les herbes, les tisanes & les épices",Mélisse,Mélisse (Mellisa officinalis),1
+pp163,"Les herbes, les tisanes & les épices",Myrte de citron,Myrte de citron (Backhousia citriodora),1
+pp491,"Les herbes, les tisanes & les épices",Sariette ,Sariette  (Satureja biflora),1
+pp492,"Les herbes, les tisanes & les épices",Verveine,Verveine (Aloysia citrodora),1
+pp164,"Les herbes, les tisanes & les épices",Verveine,Verveine (Aloysia citrodora),1
+pp165,"Les herbes, les tisanes & les épices",Citronnelle,"Citronnelle (Cympobogon citratus, C. flexuosus)",1
+pp493,"Les herbes, les tisanes & les épices",Bois de gaïac,Bois de gaïac (Guajacum officinale),1
+pp494,"Les herbes, les tisanes & les épices",Tilleul,"fleur de tilleul (Tilia cordata, T.  platyphyllos)",1
+pp495,"Les herbes, les tisanes & les épices",Tilleul,"feuille de tilleul (Tilia cordata, T. platyphyllos)",1
+pp166,"Les herbes, les tisanes & les épices",Réglisse,Réglisse (Glycyrrhiza glabra),1
+pp167,"Les herbes, les tisanes & les épices",Poivrier long,"Poivrier long (Piper longum, P. retrofractum, P. officinarum)",1
+pp168,"Les herbes, les tisanes & les épices",Livèche,Livèche (Levisticum officinale),1
+pp496,"Les herbes, les tisanes & les épices",Amarante queue de Renard / Amarante caudée,Amarante queue de Renard / Amarante caudée (Amaranthus caudatus),1
+pp169,"Les herbes, les tisanes & les épices",Maca,Maca (Lepidium peruvianum),1
+pp170,"Les herbes, les tisanes & les épices",Macis,Macis (Myristica fragrans),1
+pp497,"Les herbes, les tisanes & les épices",Pervenche de Madagascar,Pervenche de Madagascar (Catharanthus roseus),1
+pp498,"Les herbes, les tisanes & les épices","tamarinier de Malabar, Gambooge","tamarinier de Malabar, Gambooge (Garcinia cambogia)",1
+pp171,"Les herbes, les tisanes & les épices",Feuille de grande mauve ,Feuille de grande mauve  (Malva silvestris),1
+pp499,"Les herbes, les tisanes & les épices",Résine de Frêne à manne,Résine de Frêne à manne (Fraxinus ornus),1
+pp172,"Les herbes, les tisanes & les épices",Calendula,Calendula (Calendula officinalis),1
+pp173,"Les herbes, les tisanes & les épices",Marjolaine,Marjolaine (Origanum majorana),1
+pp174,"Les herbes, les tisanes & les épices",Marjolaine,Fruit de marjolaine (Origanum majorana),1
+pp500,"Les herbes, les tisanes & les épices",Marjolaine,Feuille de Guimauve officinale (Althaea officinalis),1
+pp501,"Les herbes, les tisanes & les épices",Marjolaine,Racine de Guimauve officinale (Althaea officinalis),1
+pp503,"Les herbes, les tisanes & les épices",Feuille de Matico,Feuille de Matico (Aristeguietia glutinosa),1
+pp504,"Les herbes, les tisanes & les épices",Feuille de Reine -des-prés ,Feuille de Reine -des-prés  (Filipendula ulmaria),1
+pp505,"Les herbes, les tisanes & les épices",Reine -des-prés ,Reine -des-prés  (Filipendula ulmaria),1
+pp507,"Les herbes, les tisanes & les épices",Racine de valériane mexicaine,Racine de valériane mexicaine (Valeriana edulis),1
+pp508,"Les herbes, les tisanes & les épices",Silybum,Silybum (Silybum species),1
+pp175,"Les herbes, les tisanes & les épices",Menthe,Menthe (Mentha species),1
+pp509,"Les herbes, les tisanes & les épices",Gui ,Gui  (Viscum album),1
+pp510,"Les herbes, les tisanes & les épices",Mélisse de Moldavie,Mélisse de Moldavie (Dracocephalum moldavica),1
+pp511,"Les herbes, les tisanes & les épices",Moradilla,Moradilla (Alternanthera cericea),1
+pp176,"Les herbes, les tisanes & les épices",Tige de griottier acide,Tige de griottier acide (Prunus cerasus),1
+pp512,"Les herbes, les tisanes & les épices",Moringa,Feuille de moringa (Moringa oleifera),1
+pp513,"Les herbes, les tisanes & les épices",Moringa,Graine de moringa (Moringa oleifera),1
+pp514,"Les herbes, les tisanes & les épices",Tasmannia,Tasmannia (Tasmannia species),1
+pp515,"Les herbes, les tisanes & les épices",Muehlenbeckie,Muehlenbeckie (Muelenbeckia tamnifolia),1
+pp177,"Les herbes, les tisanes & les épices",Feuille de molène,Feuille de molène (Ésp. Verbascum),1
+pp516,"Les herbes, les tisanes & les épices",Muña,Muña (Minthostachys mollis),1
+pp517,"Les herbes, les tisanes & les épices",Graine de Moutarde,Graine de Moutarde (Sinapis and Brassica species),1
+pp518,"Les herbes, les tisanes & les épices",Capucine,Capucine (Tropaeolum majus),1
+pp519,"Les herbes, les tisanes & les épices",Neem,Neem (Azadirachta indica),1
+pp178,"Les herbes, les tisanes & les épices",Ortie,Ortie (Urtica species),1
+pp520,"Les herbes, les tisanes & les épices",Épicea commun,Épicea commun (Picea abies),1
+pp179,"Les herbes, les tisanes & les épices",Noix de muscade,Noix de muscade (Myristica fragrans),1
+pp521,"Les herbes, les tisanes & les épices","Avoine, verte","Avoine, verte (Avena sativa)",1
+pp522,"Les herbes, les tisanes & les épices",feuille d'olive,feuille d'olive (Olea europaea),1
+pp180,"Les herbes, les tisanes & les épices",Feuilles d'oranger,Feuilles d'oranger (Citrus aurantium),1
+pp523,"Les herbes, les tisanes & les épices",Feuilles d'oranger,Feuilles d'oranger (Citrus aurantium),1
+pp181,"Les herbes, les tisanes & les épices",Origan,"Origan (Origanum vulgare, O. majoricum)",1
+pp213,"Les herbes, les tisanes & les épices","Les herbes, les tisanes & les épices (autre)",Autre [préciser],1
+pp524,"Les herbes, les tisanes & les épices",Palmarosa,Palmarosa (Cymbopogon martinii),1
+pp525,"Les herbes, les tisanes & les épices",Papaye,Papaye (Carica papaya),1
+pp182,"Les herbes, les tisanes & les épices",Persil,Persil (Petroselinum crispum),1
+pp318,"Les herbes, les tisanes & les épices",Patchouli,Patchouli,1
+pp526,"Les herbes, les tisanes & les épices",Patchouli,Feuille de patchouli (Pogostemon cablin),1
+pp183,"Les herbes, les tisanes & les épices","Écuelle d'eau, fausse violette","Écuelle d'eau, fausse violette (Centrella asiatica)",1
+pp527,"Les herbes, les tisanes & les épices",Pivoine officinale ,Pivoine officinale  (Paeonia officinalis),1
+pp528,"Les herbes, les tisanes & les épices",Grand boucage ,Grand boucage  (Pimpinella major),1
+pp529,"Les herbes, les tisanes & les épices",Racine de grand boucage ,Racine de grand boucage  (Pimpinella major),1
+pp530,"Les herbes, les tisanes & les épices",Plantain,Plantain,1
+pp531,"Les herbes, les tisanes & les épices",Amaranthe ,Amaranthe  (Aerva lanata),1
+pp184,"Les herbes, les tisanes & les épices",Grenade,Grenade (Punica granatum),1
+pp532,"Les herbes, les tisanes & les épices",Graines de pavot,Graines de pavot (Papaver somniferum),1
+pp533,"Les herbes, les tisanes & les épices",Poria fungus,Poria fungus (Poria cocos),1
+pp534,"Les herbes, les tisanes & les épices",Fleur de primevère officinale ,Fleur de primevère officinale  (Primula veris),1
+pp535,"Les herbes, les tisanes & les épices",Racine de primèvre officinale ,Racine de primèvre officinale  (Primula veris),1
+pp536,"Les herbes, les tisanes & les épices",Bois de quassia ,Bois de quassia  (Quassia amara),1
+pp537,"Les herbes, les tisanes & les épices",Ombelle de carotte sauvage,Ombelle de carotte sauvage (Daucus carota),1
+pp185,"Les herbes, les tisanes & les épices",Feuilles de framboisier,Feuilles de framboisier (Rubus idaeus),1
+pp186,"Les herbes, les tisanes & les épices",Henné,Henné (Lawsonia inermis),1
+pp538,"Les herbes, les tisanes & les épices",Racine de rehmannia,Racine de rehmannia (Rehmannia glutinosa),1
+pp187,"Les herbes, les tisanes & les épices",Rooibos,Rooibos (Aspalathus linearis),1
+pp188,"Les herbes, les tisanes & les épices",Le cynorrhodon,Le cynorrhodon (Rosa species),1
+pp189,"Les herbes, les tisanes & les épices","Oseille de Guinée, Roselle","Oseille de Guinée, Roselle (Hibiscus sabdariffa)",1
+pp190,"Les herbes, les tisanes & les épices",Rosemarin,Rosemarin (Rosmarinus officinalis),1
+pp539,"Les herbes, les tisanes & les épices",Ruta graveolens,Ruta graveolens (Ruta graveolens),1
+pp540,"Les herbes, les tisanes & les épices",Fleur de lotus sacré ,Fleur de lotus sacré  (Nelumbo nucifera),1
+pp191,"Les herbes, les tisanes & les épices",Faux saffran ,Faux saffran  (Carthamus tinctorius),1
+pp192,"Les herbes, les tisanes & les épices",Saffran,Saffran (Crocus sativus),1
+pp193,"Les herbes, les tisanes & les épices",Salvia,"Salvia (Salvia officinalis, S.sclarea)",1
+pp541,"Les herbes, les tisanes & les épices",Fleur d'éternelle ,Fleur d'éternelle  (Helichrysum arenarium),1
+pp542,"Les herbes, les tisanes & les épices",Racine de salsepareille ,Racine de salsepareille  (Ésp. Smilax),1
+pp543,"Les herbes, les tisanes & les épices",Feuilles de sassafras,Feuilles de sassafras (Sassafras albidum),1
+pp544,"Les herbes, les tisanes & les épices",Satavar,Satavar (Asparagus racemosus),1
+pp194,"Les herbes, les tisanes & les épices",Sarriette,"Sarriette (Satureja hortensis, S. montana)",1
+pp545,"Les herbes, les tisanes & les épices",Fruit de la graine aux cinq saveurs ,Fruit de la graine aux cinq saveurs  (Schisandra chinensis),1
+pp546,"Les herbes, les tisanes & les épices",Racine de polygala sénéca ,Racine de polygala sénéca  (Polygala senega),1
+pp195,"Les herbes, les tisanes & les épices","Séné d'Italie, Hénné neutre","Séné d'Italie, Hénné neutre (Cassia obovata)",1
+pp196,"Les herbes, les tisanes & les épices",Sésame,Sésame (Sesamum indicum),1
+pp547,"Les herbes, les tisanes & les épices",Shankhapushpi,Shankhapushpi (Convolvulus pluricaulis),1
+pp548,"Les herbes, les tisanes & les épices",Bourse à pasteur ,Bourse à pasteur  (Capsella bursa pastoris),1
+pp549,"Les herbes, les tisanes & les épices",Racine de ginseng sibérien,Racine de ginseng sibérien (Eleutherococcus senticosus),1
+pp550,"Les herbes, les tisanes & les épices",Poivre du Sichuan,"Poivre du Sichuan (Zanthoxylum piperitum, Z. simulans)",1
+pp551,"Les herbes, les tisanes & les épices",Fleur de tilleul argenté ,"Fleur de tilleul argenté  (Tilia argentea, T.tomentosa)",1
+pp552,"Les herbes, les tisanes & les épices",Feuille de tilleul argenté ,"Feuille de tilleul argenté  (Tilia argentea, T.tomentosa)",1
+pp553,"Les herbes, les tisanes & les épices",Potentille ansérique ,Potentille ansérique  (Potentilla anserina),1
+pp554,"Les herbes, les tisanes & les épices",Fruit du prunelier,Fruit du prunelier (Prunus spinosa),1
+pp555,"Les herbes, les tisanes & les épices","Herniaire, Millegraine ","Herniaire, Millegraine  (Herniaria glabra)",1
+pp556,"Les herbes, les tisanes & les épices",Écorce de bois de pananma ,Écorce de bois de pananma  (Quillaja saponaria),1
+pp557,"Les herbes, les tisanes & les épices",Aurone,"Aurone (Artemisia abrotanum, A. vulgaris)",1
+pp197,"Les herbes, les tisanes & les épices",Feuille d'épinard ,Feuille d'épinard  (Spinacia oleracea),1
+pp558,"Les herbes, les tisanes & les épices",Spiruline ,Spiruline  (Spirulina platensis),1
+pp559,"Les herbes, les tisanes & les épices",Fleur de millepertuis officinal,Fleur de millepertuis officinal (Hypericum perforatum),1
+pp560,"Les herbes, les tisanes & les épices",Millepertuis officinal,Millepertuis officinal (Hypericum perforatum),1
+pp198,"Les herbes, les tisanes & les épices",Anis étoilé,Anis étoilé (Illicium verum),1
+pp199,"Les herbes, les tisanes & les épices",Stevia,Stevia (Stevia species),1
+pp561,"Les herbes, les tisanes & les épices",Coriandre long,Coriandre long (Eryngium foetidum),1
+pp562,"Les herbes, les tisanes & les épices",Stonebreaker,Stonebreaker (Phyllanthus niruri),1
+pp563,"Les herbes, les tisanes & les épices",Feuille de fraise ananas,Feuille de fraise ananas (Fragaria ananassa),1
+pp564,"Les herbes, les tisanes & les épices",Pétale de tournesol  ,Pétale de tournesol   (Helianthus annuus),1
+pp200,"Les herbes, les tisanes & les épices",Tige de merisier ,Tige de merisier  (Prunus avium sous-espèce. avium),1
+pp565,"Les herbes, les tisanes & les épices",Sichuan livèche rhizome,Sichuan livèche rhizome (Ligusticum wallichii),1
+pp566,"Les herbes, les tisanes & les épices",Tamarindo,Tamarindo (Tamarindus indica),1
+pp201,"Les herbes, les tisanes & les épices",Estragon,Estragon (Artemisia dracunculus),1
+pp202,"Les herbes, les tisanes & les épices",Arbre à thé,Arbre à thé (Melaleuca alternifolia),1
+pp567,"Les herbes, les tisanes & les épices",Laurier des Indes,Laurier des Indes (Cinnamomum tamala),1
+pp203,"Les herbes, les tisanes & les épices",Thym,Thym (Thymus species),1
+pp568,"Les herbes, les tisanes & les épices",Souchet commestible ,Souchet commestible  (Cyperus esculentus),1
+pp569,"Les herbes, les tisanes & les épices",Linaire commune ,Linaire commune  (Linaria vulgaris),1
+pp570,"Les herbes, les tisanes & les épices",Fève tonka,Fève tonka (Dipteryx odorata),1
+pp571,"Les herbes, les tisanes & les épices",Racine de potentille dressée,Racine de potentille dressée (Potentilla erecta),1
+pp572,"Les herbes, les tisanes & les épices",Mauve royale,Mauve royale (Lavatera arborea),1
+pp573,"Les herbes, les tisanes & les épices",Plante de tulsi,Plante de tulsi (Ocimum tenuiflorum),1
+pp204,"Les herbes, les tisanes & les épices",Curcuma,Curcuma (Curcuma species),1
+pp574,"Les herbes, les tisanes & les épices",Valériane,Valériane (Valeriana decussata),1
+pp205,"Les herbes, les tisanes & les épices",Vanille,"Vanille (Vanilla mexicana, V. fragrans, V. planifolia)",1
+pp575,"Les herbes, les tisanes & les épices",Veldt raisin,Veldt raisin (Cissus quadrangularis),1
+pp576,"Les herbes, les tisanes & les épices",Verveine,Verveine (Verbena species),1
+pp206,"Les herbes, les tisanes & les épices",Vétiver / Vétyver,Vétiver / Vétyver (Chrysopogon zizanioides),1
+pp577,"Les herbes, les tisanes & les épices",Menthe vietnamienne/coriandre vietnamien,Menthe vietnamienne/coriandre vietnamien (Polygonum odoratum),1
+pp207,"Les herbes, les tisanes & les épices",Feuille de noyer ,Feuille de noyer  (Juglans regia),1
+pp578,"Les herbes, les tisanes & les épices",Hysope d'eau,Hysope d'eau (Bacopa monnieri),1
+pp579,"Les herbes, les tisanes & les épices",Menthe d'eau,Menthe d'eau,1
+pp580,"Les herbes, les tisanes & les épices",Cresson,Cresson (Nasturtium officinale),1
+pp581,"Les herbes, les tisanes & les épices",Graine d'acacia ,Graine d'acacia  (Acacia victoriae),1
+pp582,"Les herbes, les tisanes & les épices",Blanc baizhu rhizome,Blanc baizhu rhizome (Atractylodis macrocephalae),1
+pp583,"Les herbes, les tisanes & les épices",Lamier blanc,Fleur de lamier blanc (Lamium album),1
+pp584,"Les herbes, les tisanes & les épices",Lamier blanc,Lamier blanc (Lamium album),1
+pp585,"Les herbes, les tisanes & les épices",Longose blanc,Longose blanc (Hedychium coronarium),1
+pp208,"Les herbes, les tisanes & les épices",Mûrier blanc ,Feuille de mûrier blanc  (Morus alba),1
+pp586,"Les herbes, les tisanes & les épices",Mûrier blanc ,Brindille de mûrier blanc  (Morus alba),1
+pp587,"Les herbes, les tisanes & les épices",Racine de pivoine blanche,Racine de pivoine blanche (Paeonia alba),1
+pp209,"Les herbes, les tisanes & les épices",Poivre blanc,Poivre blanc (Piper nigrum),1
+pp317,"Les herbes, les tisanes & les épices",Dattier indien,Dattier indien,1
+pp210,"Les herbes, les tisanes & les épices",Feuille de fraise sauvage ,Feuille de fraise sauvage  (Fragaria vesca),1
+pp588,"Les herbes, les tisanes & les épices",Épilobe en épi ,Épilobe en épi  (Epilobium angustifolium),1
+pp589,"Les herbes, les tisanes & les épices",Herbe de Sainte-Barbe,"Herbe de Sainte-Barbe (Barbarea vulgaris, B. verna)",1
+pp590,"Les herbes, les tisanes & les épices",Hamamélis de Virginie ,Écorce d'hamamélis de Virginie  (Hamamelis virginiana),1
+pp591,"Les herbes, les tisanes & les épices",Hamamélis de Virginie ,Feuillle d'hamamélis de Virginie  (Hamamelis virginiana),1
+pp592,"Les herbes, les tisanes & les épices",Épiaire officinale ,Épiaire officinale  (Betonica officinalis),1
+pp211,"Les herbes, les tisanes & les épices",Gaillet odorant,Gaillet odorant (Galium odoratum),1
+pp212,"Les herbes, les tisanes & les épices",Armoise,Armoise (Artemisia absinthium),1
+pp593,"Les herbes, les tisanes & les épices",Achillée millefeuille,Fleur d'achillée millefeuille (Achillea millefolium),1
+pp594,"Les herbes, les tisanes & les épices",Achillée millefeuille,Achillée millefeuille (Achillea millefolium),1
+pp595,"Les herbes, les tisanes & les épices",Gaillet jaune ,Gaillet jaune  (Galium verum),1
+pp596,"Les herbes, les tisanes & les épices",Racine de gentiane jaune,Racine de gentiane jaune (Gentiana lutea),1
+pp502,"Les herbes, les tisanes & les épices",Yerba maté,Yerba maté (llex paragariensis),1
+pp597,"Les herbes, les tisanes & les épices",Yerba maté,Yerba maté (llex paragariensis),1
+pp598,"Les herbes, les tisanes & les épices",Ilang-ilang / Ylang-ylang,Ilang-ilang / Ylang-ylang (Cananga odorata),1
+pp214,Miel,Miel,Qualité A,1
+pp215,Miel,Miel,Qualité B,1
+pp216,Miel,Miel,Autre [préciser],1
+pp217,Noix,Amandes,Amandes,1
+pp218,Noix,Graines d'abricot,Graines d'abricot,1
+pp219,Noix,Noix du Brésil,Noix du Brésil,1
+pp220,Noix,Noix de cajou,Noix de cajou,1
+pp309,Noix,Châtaigne,Châtaigne,1
+pp221,Noix,Noix de macadamia,Noix de macadamia,1
+pp224,Noix,Noix  (autre),Autre [préciser],1
+pp222,Noix,Cacahuète,Cacahuète,1
+pp223,Noix,Noix,Noix,1
+pp225,Graines et fruits oléagineux,Huile d'argan,Huile d'argan,1
+pp226,Graines et fruits oléagineux,Noix de coco,Noix de coco,0.00120048
+pp633,Graines et fruits oléagineux,Graine de lin,Graine de lin,1
+pp637,Graines et fruits oléagineux,Grain de madhuca,Grain de madhuca,1
+pp227,Graines et fruits oléagineux,Huile d'olive,Huile d'olive,1
+pp228,Graines et fruits oléagineux,Olives,Olives,1
+pp233,Graines et fruits oléagineux,Graines et fruits oléagineux (autre),Autre [préciser],1
+pp638,Graines et fruits oléagineux,Grain de sal,Grain de sal,1
+pp229,Graines et fruits oléagineux,Huile de sésame,Huile de sésame,1
+pp230,Graines et fruits oléagineux,Graine de sésame,Graine de sésame,1
+pp231,Graines et fruits oléagineux,Beurre de karité,Beurre de karité,1
+pp232,Graines et fruits oléagineux,Graines de soja,Graines de soja,1
+pp234,"Fruits transformés (jus, séchés et pulpe)",Açaï,Açaï (pulpe),1
+pp235,"Fruits transformés (jus, séchés et pulpe)",Araza,Araza (pulpe),1
+pp241,"Fruits transformés (jus, séchés et pulpe)",Fruits transformés (autre),Autres pulpes de fruits [préciser],1
+pp236,"Fruits transformés (jus, séchés et pulpe)",Banane,Banane (pulpe),1
+pp237,"Fruits transformés (jus, séchés et pulpe)",Carambolier,Carambole (pulpe),1
+pp238,"Fruits transformés (jus, séchés et pulpe)",Goyave,Goyave (pulpe),1
+pp239,"Fruits transformés (jus, séchés et pulpe)",Lychees,Litchi (pulpe),1
+pp240,"Fruits transformés (jus, séchés et pulpe)",Mangue,Mangue (pulpe),1
+pp244,Riz,Riz,Basmati : Pusa,1
+pp245,Riz,Riz,Basmati : traditionnel,1
+pp246,Riz,Riz,Petit poussin noir & petit poussin blanc,1
+pp604,Riz,Riz,Grain brésilienne longue,1
+pp605,Riz,Riz,Grain long aromatique de Birmanie,1
+pp606,Riz,Riz,Cambodgien aromatique à grain long,1
+pp607,Riz,Riz,Giza,1
+pp247,Riz,Riz,Riz gluant : noir ou violet,1
+pp248,Riz,Riz,Riz gluant : blanc,1
+pp608,Riz,Riz,Hsin Thu Kha,1
+pp249,Riz,Riz,Riz Jasmin et Jasmin rouge,1
+pp609,Riz,Riz,Ma Naw Thu Kha,1
+pp610,Riz,Riz,Mandarine,1
+pp611,Riz,Riz,Non-Basmati et Non-Sarbati riz,1
+pp612,Riz,Riz,Riz non gluant noir,1
+pp613,Riz,Riz,Riz non gluant rouge,1
+pp250,Riz,Riz,Riz normal long grain,1
+pp253,Riz,Riz,Autre [préciser],1
+pp614,Riz,Riz,Paw San,1
+pp251,Riz,Riz,Sarbati,1
+pp616,Riz,Riz,Shwe Thwe Lay,1
+pp617,Riz,Riz,Riz thaï long grain,1
+pp252,Riz,Riz,Variétés traditionnelles du Sri Lanka,1
+pp255,Coton-graine,Coton-graine,"Gossypium barbadense (par ex. Giza, PIMA)",1
+pp254,Coton-graine,Coton-graine,Gossypium hirsutum/ herbaceum/ arboreum,1
+pp256,Coton-graine,Coton-graine,Autre [préciser],1
+pp257,Crevettes,Crevettes,M. rosenbergii,1
+pp258,Crevettes,Crevettes,Autre [préciser],1
+pp260,Ballons de sport,Ballons de sport,Autre [préciser],1
+pp259,Ballons de sport,Ballons de sport,Ballons de sport,1
+pp261,Thé,Thé,Camellia sinensis : feuille verte,0.22222
+pp262,Thé,Thé,Autre [préciser],1
+pp618,Textile,Coton,Coton,1
+pp619,Textile,fibre responsible,fibre responsible,1
+pp264,Bois,Bois,Autre [préciser],1
+pp263,Bois,Bois,Bois,1
+pp269,Les légumes,Haricots (sauf haricots verts),Haricots (sauf haricots verts),1
+pp278,Les légumes,Vigna unguiculata (feuilles),Vigna unguiculata (feuilles),1
+pp281,Les légumes,Haricots verts,Haricots verts,1
+pp282,Les légumes,Petits pois,Petits pois,1
+pp620,Les légumes,Haricots verts,Haricots verts,1
+pp628,Les légumes,Pois vert (Tout comestible Pisum),Pois vert (Tout comestible Pisum),1
+pp622,Les légumes,Feuille de Vigna unguiculata,Feuille de Vigna unguiculata,1
+pp289,Les légumes,Pommes de terre nouvelles,Pommes de terre nouvelles,1
+pp292,Les légumes,Pois (sauf petits pois),Pois (sauf petits pois),1
+pp307,Les légumes,Amarante,Amarante,1
+pp265,Les légumes,Artichaut,Artichaut,1
+pp266,Les légumes,Asperge,Asperge,1
+pp267,Les légumes,maïs bébé,maïs bébé,1
+pp268,Les légumes,Haricots Barlotti,Haricots Barlotti,1
+pp270,Les légumes,Betterave,Betterave,1
+pp271,Les légumes,Brocoli,Brocoli,1
+pp308,Les légumes,Choux de Bruxelles,Choux de Bruxelles,1
+pp272,Les légumes,Chou,Chou,1
+pp273,Les légumes,Carotte,Carotte,1
+pp274,Les légumes,"Manioc, tapioca","Manioc, tapioca",1
+pp275,Les légumes,Chou-fleur,Chou-fleur,1
+pp276,Les légumes,Céleri,Céleri,1
+pp277,Les légumes,Chard,Chard,1
+pp279,Les légumes,Concombre,Concombre,1
+pp280,Les légumes,Aubergine,Aubergine,1
+pp635,Les légumes,Ail éléphant,Ail éléphant,1
+pp283,Les légumes,Ail,Ail,1
+pp284,Les légumes,Cornichon,Cornichon,1
+pp310,Les légumes,Kale (Tout Brassica comestible connu sous le nom de Kale),Kale (Tout Brassica comestible connu sous le nom de Kale),1
+pp285,Les légumes,Haricots rouges,Haricots rouges,1
+pp621,Les légumes,Feuilles de sorbet africain,Feuilles de sorbet africain,1
+pp286,Les légumes,Poireau,Poireau,1
+pp287,Les légumes,Laitue,Laitue,1
+pp623,Les légumes,Feuilles de jute,Feuilles de jute,1
+pp288,Les légumes,Haricots Mung,Haricots Mung,1
+pp290,Les légumes,Oignon,Oignon,1
+pp304,Les légumes,Les légumes (autre),Autres légumes frais [préciser],1
+pp291,Les légumes,Cœur de palmier,Cœur de palmier,1
+pp293,Les légumes,Poivrons : Capsicum Annuum,Poivrons : Capsicum Annuum,1
+pp624,Les légumes,Graines de légumineuses,Graines de légumineuses,1
+pp294,Les légumes,Citrouille,Citrouille,1
+pp313,Les légumes,Radicchio,Radicchio,1
+pp295,Les légumes,Radis,Radis,1
+pp296,Les légumes,échalotes,échalotes,1
+pp297,Les légumes,Ficoïde à fleurs nodales,Ficoïde à fleurs nodales,1
+pp298,Les légumes,Chlorophytum comosum,Chlorophytum comosum,1
+pp299,Les légumes,Épinards,Épinards,1
+pp300,Les légumes,Courge,Courge,1
+pp301,Les légumes,Patates douces,Patates douces,1
+pp302,Les légumes,Tomates (fraîches),Tomates (fraîches),1
+pp303,Les légumes,Zucchini,Zucchini,1
+pp306,Raisins vinicoles,Raisins vinicoles (autre),Autre [préciser],1
+pp625,Raisins vinicoles,Raisins de vin rouge,Raisins de vin rouge,0.00143
+pp626,Raisins vinicoles,Raisins de vin blancs,Raisins de vin blancs,0.0016
+pp305,Raisins vinicoles,Raisins vinicoles (non spécifié),Raisins vinicoles (non spécifié),1
